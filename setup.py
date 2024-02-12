@@ -11,9 +11,9 @@ AUTHOR_USER_NAME = "jay-khade-45"
 SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "jaykhade2023@gmail.com"
 
-# using setuptools we can setup src/mlproject as local package.
+# using setuptools, we can set up src/mlproject as local package.
 # local package?
-# setting up this folder as local package so we can import the functionality from here.
+# setting up this folder as local package, so we can import the functionality from here.
 # .e present in requirement.txt will install setup.py file
 
 
